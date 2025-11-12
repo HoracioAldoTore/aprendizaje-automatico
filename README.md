@@ -7,3 +7,5 @@ Expone la respuesta como un aprendizaje automático (o machine learning) mediant
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/FxBXYAEMgRc/0.jpg)](https://youtu.be/FxBXYAEMgRc)
 
+[![Tu descripción de video](https://img.youtube.com/vi/FxBXYAEMgRc/0.jpg)](https://www.youtube.com/watch?v=FxBXYAEMgRc)
+
