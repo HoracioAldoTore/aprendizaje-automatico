@@ -6,5 +6,3 @@ Expone la respuesta como un aprendizaje automático (o machine learning) mediant
 ![Alt text](IAAprendizajeAnimacion/Animacion/Animacion.gif)
 
 [![Video explicando el aprendizaje de un software por realimentacion](https://img.youtube.com/vi/FxBXYAEMgRc/0.jpg)](https://www.youtube.com/watch?v=FxBXYAEMgRc)
-
-<iframe width="703" height="377" src="https://www.youtube.com/embed/FxBXYAEMgRc" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
