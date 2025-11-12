@@ -5,4 +5,4 @@ Expone la respuesta como un aprendizaje automático (o machine learning) mediant
 
 ![Alt text](IAAprendizajeAnimacion/Animacion/Animacion.gif)
 
-[![Video explicando el aprendizaje de un software por realimentacion](https://img.youtube.com/vi/FxBXYAEMgRc/0.jpg)](https://www.youtube.com/watch?v=FxBXYAEMgRc)
+[![Video explicando el aprendizaje de un software por realimentacion]()](https://www.youtube.com/watch?v=FxBXYAEMgRc)
