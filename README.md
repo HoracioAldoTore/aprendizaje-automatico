@@ -5,5 +5,5 @@ Expone la respuesta como un aprendizaje automático (o machine learning) mediant
 
 ![Alt text](IAAprendizajeAnimacion/Animacion/Animacion.gif)
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/FxBXYAEMgRc)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/FxBXYAEMgRc/0.jpg)](https://youtu.be/FxBXYAEMgRc)
 
